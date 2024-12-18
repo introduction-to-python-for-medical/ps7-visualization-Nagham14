@@ -1,1 +1,8 @@
 
+There is no correlation in the graph between the two variables because the points are scattered horizontally with high dispersion, and no clear upward or downward trend is visible. This indicates that there is either no relationship between the two variables or a very weak correlation.
+#
+
+
+You said:אין קורלציה בגרף בין שני המשתנים משום שהנקודות מפוזרות בצורה אופקית עם פיזור רב ולא ניתן לראות מגמה עולה\יורדת  וזה מצביע שאין קשר בין שני המשתנים או שיש קשר מאוד 
+חלש
+בנוסף לכך שבדקתי אם יש קורלציה בין שאר המשתנים ולא היה
